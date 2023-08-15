@@ -1,0 +1,19 @@
+{
+  "name": "connect-mongodb-nodejs-express",
+  "version": "1.0.0",
+  "description": "connect-mongodb-nodejs-express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswin2023/connect-mongodb-nodejs-express.git"
+  },
+  "author": "Ashwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aswin2023/connect-mongodb-nodejs-express/issues"
+  },
+  "homepage": "https://github.com/aswin2023/connect-mongodb-nodejs-express#readme"
+}
